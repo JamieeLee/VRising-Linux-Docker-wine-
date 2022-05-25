@@ -3,7 +3,7 @@ Run a VRising Dedicated Server on Linux via Docker
 
 1.  
 ```
-git clone 
+git clone https://github.com/JamieeLee/VRising-Linux-Docker-wine-.git
 ```
 2.  
 ```
@@ -59,8 +59,6 @@ At least change the Name, Port and QueryPort to match our Docker Ports (So outsi
  ---
  
  Credits;
- 
- This Server uses the following Images;
  
  maloneweb/docker-wine-base:latest
  
